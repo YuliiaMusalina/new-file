@@ -1,0 +1,15 @@
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\bin\Debug\net6.0\Fx001.exe
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\bin\Debug\net6.0\Fx001.deps.json
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\bin\Debug\net6.0\Fx001.runtimeconfig.json
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\bin\Debug\net6.0\Fx001.dll
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\bin\Debug\net6.0\Fx001.pdb
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.csproj.AssemblyReference.cache
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.AssemblyInfoInputs.cache
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.AssemblyInfo.cs
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.csproj.CoreCompileInputs.cache
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.dll
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\refint\Fx001.dll
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.pdb
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\Fx001.genruntimeconfig.cache
+C:\Users\uliamusalina\Desktop\les 123\Examples\Fx001\obj\Debug\net6.0\ref\Fx001.dll
